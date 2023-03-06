@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-my_projects: true
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+my_projects: false
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a junior student in College of Computer Science, Harbin Institute of Technology(Shenzhen campus). I am currently pursuing my B. Eng. , and will graduate in June, 2024. I am **EAGERLY** looking for a graduate position for 2024 Fall.
