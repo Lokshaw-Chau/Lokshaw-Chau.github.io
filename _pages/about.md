@@ -16,4 +16,4 @@ my_projects: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I’m currently a third-year undergraduate student majored in computer science, Harbin Institute of Technology(Shenzhen). My research interests lie in transfer learning and natural language processing. I will graduate in June 2024 and I am **earnestly seeking a PhD position for Fall 2024 admission and beyond**.
+I’m currently a third-year undergraduate student majored in computer science, Harbin Institute of Technology(Shenzhen). My research interests lie in transfer learning and natural language processing. I will graduate in June 2024 and I am **earnestly** seeking a PhD position for Fall 2024 admission and beyond.
