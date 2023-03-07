@@ -16,8 +16,4 @@ my_projects: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a junior student in College of Computer Science, Harbin Institute of Technology(Shenzhen campus). I am currently pursuing my B. Eng. , and will graduate in June, 2024. I am **EAGERLY** looking for a graduate position for 2024 Fall.
-
-My general research interest lies in transfer learning and data mining. To be specific, I focus on domain adaptation and apply related transfer learning mechanism to time series analysis. 
-
-I am currently working with Prof. [Xinyang Chen](https://chenxinyang123.github.io/) and Prof. [Xiucheng Li](https://xiucheng.org/contact.html) on domain adaptation for time series classification.
+Hi! I’m currently a third-year undergraduate student majored in computer science, Harbin Institute of Technology(Shenzhen). My research interests lie in transfer learning and natural language processing. I will graduate in June 2024 and I am **earnestly seeking a PhD position for Fall 2024 admission and beyond**.
