@@ -13,7 +13,6 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
@@ -21,3 +20,6 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+# Pin sass-embedded to fix compatibility issue with Ruby 3.1.0
+gem 'sass-embedded', '~> 1.77.8'
